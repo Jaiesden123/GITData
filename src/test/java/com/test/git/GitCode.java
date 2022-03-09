@@ -10,7 +10,14 @@ public class GitCode {
 
 	}
 	public void method13() {
-	System.out.println("method12");
-
+	System.out.println("method13");
 }
+	private void method14() {
+		System.out.println("method14");
+
+	}
+	private void method15() {
+		System.out.println("method15");
+
+	}
 }
